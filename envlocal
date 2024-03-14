@@ -1,0 +1,9 @@
+
+NODE_ENV = 'local'
+PORT = 4000
+HOST = '0.0.0.0'
+DATABASE='BaxtureDB'
+DBUSERNAME='postgres'
+PASSWORD='pratiksha'
+DBHOST='127.0.0.1'
+DIALECT='postgres'

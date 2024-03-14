@@ -1,0 +1,17 @@
+{
+	"api": {
+		"errors": {
+			"SomeThingWentWrong": "Something went wrong",
+			"UserNotFound": "User Not Found"
+		},
+		"msg": {
+			"APISuccess": "Success",
+			"GetUsers": "Get Users Successfully",
+			"NoDataFound": "No Data Found",
+			"UserDeleted": "User Deleted Successfully",
+			"UserAddSuccess": "User Added Successfully",
+			"UserupdateSuccess": "User updatd Successfully",
+			"GetUser": "Get User Data Successfully"
+		}
+	}
+}
